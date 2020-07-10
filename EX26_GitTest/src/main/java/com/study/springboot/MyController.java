@@ -22,4 +22,7 @@ public class MyController {
 	//	|			^
 	//	vpush		|	pull
 	//원격 저장소(Github 서버)
+	
+	//commit : 로컬저장소에 저장
+	//push  : 서버에 올리는 것
 }
